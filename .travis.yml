@@ -1,5 +1,5 @@
 language: bash
 script:
   - echo "hello"
-  - Travis CI test in .travis.yml
+  - echo "Travis CI test in .travis.yml"
   - ./same-test.sh
